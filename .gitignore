@@ -1,0 +1,11 @@
+# 不分发专有安装包与解包产物（避免版权与体积问题）
+*.apk
+wifi_apktool_out/
+jadx/
+*.zip
+
+# 系统/环境
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
